@@ -1,0 +1,1 @@
+kamurua is currently an undergraduate students pursing a degree in statistics. who develops Python, R, JavaScript and C++, contributing to open source projects, and involving himself in machine learning and data science learing materials thus aspring to become a data scientist.
